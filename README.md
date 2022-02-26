@@ -1,4 +1,4 @@
-### Hi there 👋
+### Here's a simple but cute background generator, made on knoledge provided by ZtM course 👋
 
 <!--
 **makeithappen2024/makeithappen2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
